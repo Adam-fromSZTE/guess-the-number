@@ -1,6 +1,6 @@
 # Guess the number game
 
-React és node.js
+React és Node.js ( + Tailwind CSS)
 
 Csomagoló: npm/yarn
 
